@@ -1,4 +1,4 @@
-## fromtenets: from neural nets to mlops
+## nn_agentic: Neural Network to Agentic AI, but only from Papers & Books.
 
 > [!IMPORTANT]
 > the way to learn are from books to implementations. Target 50 books
